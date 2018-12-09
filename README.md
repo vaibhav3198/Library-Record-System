@@ -10,5 +10,8 @@ A library record data management system implemented using linked lists for stori
 ## Execution of the project
 1. Download the project.
 2. Open terminal in the directory containing the project file.
-3. Execute the command: "gcc -o LibraryRecordSystem LibraryRecord.c" to make the executable file.
+3. Execute the command: "gcc -o LibraryRecordSystem LibraryRecord_LinkedList.c" to make the executable file.
 4. To the the executable, run "./LibraryRecordSystem" on the terminal.
+5. Follow the same procedure for executing LibraryRecord_AVL.c file.
+## Developer
+Vaibhav Agasti
